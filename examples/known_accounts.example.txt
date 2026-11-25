@@ -1,0 +1,7 @@
+# Use only test-owned accounts or accounts explicitly provided for authorized testing.
+# One account per line. For login checks, prefer dedicated test accounts and one invalid password each.
+user1@example.test
+user2@example.test
+user3@example.test
+user4@example.test
+user5@example.test

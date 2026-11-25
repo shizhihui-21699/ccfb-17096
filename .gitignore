@@ -16,3 +16,13 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# Generated reports and real account lists
+/enum-report/
+/report.json
+/report.md
+*.enum.json
+*.enum.md
+known_accounts.txt
+known_*accounts*.txt
+!examples/known_accounts.example.txt
