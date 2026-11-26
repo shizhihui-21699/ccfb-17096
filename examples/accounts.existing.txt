@@ -1,0 +1,11 @@
+# 仅用于本地 mock_target.py 的专用测试账号
+probe01@example.com
+probe02@example.com
+probe03@example.com
+probe04@example.com
+probe05@example.com
+probe06@example.com
+probe07@example.com
+probe08@example.com
+probe09@example.com
+probe10@example.com

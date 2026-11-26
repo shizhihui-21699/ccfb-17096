@@ -14,5 +14,12 @@ credentials*.json
 .pypirc
 node_modules/
 __pycache__/
+*.pyc
 .venv/
 venv/
+
+# 检测报告可能包含目标信息，默认不提交
+account_enum_report.json
+account_enum_report.md
+results/
+/enum-results/
